@@ -516,6 +516,10 @@ a:not(.tbuttonn) {
     font-weight: 500
 }
 
+.top-spacing {
+    margin-top: 20px;
+}
+
 a:not(.tbuttonn):hover,
 a:not(.tbuttonn):active {
     outline: 0;
